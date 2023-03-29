@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home1"
+        android:title="@string/inicio"  />
+
+    <item
+        android:id="@+id/agregar"
+        android:icon="@drawable/agregar"
+        android:title="@string/agregar"/>
+
+    <item
+        android:id="@+id/cartera"
+        android:icon="@drawable/cartera"
+        android:title="@string/cartera"  />
+
+    <item
+        android:id="@+id/cash"
+        android:icon="@drawable/moneda"
+        android:title="@string/moneda"  />
+
+    <item
+        android:id="@+id/config"
+        android:icon="@drawable/config"
+        android:title="@string/configuracion"  />
+
+</menu>
